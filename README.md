@@ -46,12 +46,12 @@ CCKS2017 该任务 评测最好成绩
    | :--- | :---: | :---: |
    |0.9449 | 0.8789 | 0.9102 |
 
+CCKS2018 该任务 评测最好成绩 F1 = 0.8913
+
 #### 3.改进医疗领域命名实体识别模型 [continue, 50%]
 
 方法：选择GitHub上的代码 https://github.com/fangwater/Medical-named-entity-recognition-for-ccks2017/tree/master/LSTM-CRF%20NER
 
 框架：PyTorch
 
-已调试成功，由于训练速度较慢，现在还没有得到最终结果，预计下周可以完成
-
-
+已调试成功，由于训练速度较慢，现在还没有得到最终结果，预计本周可以完成
