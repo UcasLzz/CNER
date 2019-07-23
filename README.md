@@ -8,7 +8,9 @@
 
 目的：为了确定Bi-Lstm + CRF在医疗领域命名实体识别中的可行性与有效性
 
-方法：选择GitHub上的代码 https://github.com/liuhuanyong/MedicalNamedEntityRecognition(keras)
+方法：选择GitHub上的代码 https://github.com/liuhuanyong/MedicalNamedEntityRecognition
+
+框架：keras
 
 结果：
 
@@ -47,6 +49,8 @@ CCKS2017 TASK2 评测最好成绩
 #### 3.改进医疗领域命名实体识别模型 [continue, 50%]
 
 方法：选择GitHub上的代码 https://github.com/fangwater/Medical-named-entity-recognition-for-ccks2017/tree/master/LSTM-CRF%20NER(PyTorch)
+
+框架：PyTorch
 
 已调试成功，由于训练速度较慢，现在还没有得到最终结果，预计下周可以完成。
 
