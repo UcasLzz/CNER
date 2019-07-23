@@ -32,7 +32,7 @@
 
 讨论问题：
 
-会不会是因为数据量过小导致CRF无法发挥效用
+因为数据量过小导致CRF无法发挥效用
 
 实验与分析：
 
@@ -40,7 +40,7 @@
 
 领域调研：
 
-CCKS2017 TASK2 评测最好成绩
+CCKS2017 该任务 评测最好成绩
 
 | P | R | F1 |
    | :--- | :---: | :---: |
@@ -48,7 +48,7 @@ CCKS2017 TASK2 评测最好成绩
 
 #### 3.改进医疗领域命名实体识别模型 [continue, 50%]
 
-方法：选择GitHub上的代码 https://github.com/fangwater/Medical-named-entity-recognition-for-ccks2017/tree/master/LSTM-CRF%20NER(PyTorch)
+方法：选择GitHub上的代码 https://github.com/fangwater/Medical-named-entity-recognition-for-ccks2017/tree/master/LSTM-CRF%20NER
 
 框架：PyTorch
 
