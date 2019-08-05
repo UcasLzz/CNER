@@ -48,7 +48,7 @@ CCKS2017 该任务 评测最好成绩
 
 CCKS2018 该任务 评测最好成绩 F1 = 0.8913
 
-#### 3.改进医疗领域命名实体识别模型 [continue, 50%]
+#### 3.改进医疗领域命名实体识别模型 [done]
 
 方法：选择GitHub上的代码 https://github.com/fangwater/Medical-named-entity-recognition-for-ccks2017/tree/master/LSTM-CRF%20NER
 
@@ -74,3 +74,4 @@ CCKS2018 该任务 评测最好成绩 F1 = 0.8913
    | dise | 0.0000 | 0.0000 | 0.0000 | 1 |
    | symp | 0.8333 | 0.5882 | 0.6897 | 12 |
 
+主要因为自己标注不规范，问题集中在body词汇的切分，如果统一标注语料，效果估计可以接近医疗领域NER水平。
